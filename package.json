@@ -1,0 +1,20 @@
+{
+  "name": "sequelize-sscce",
+  "version": "1.0.0",
+  "description": "A Simple and concise template for examples using sequelizejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "sscce",
+    "sequelize"
+  ],
+  "author": "Stefano Bourscheid",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.11.1",
+    "q": "^1.4.1",
+    "sequelize": "^3.20.0"
+  }
+}
